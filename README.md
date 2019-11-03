@@ -1,14 +1,9 @@
-<img height="60px" width="60px" style="float: left;" src="/assets/img/demo/logo.svg" alt="Vex Logo">
-<h2 style="height: 60px; line-height: 60px; margin-left: 70px; font-weight: 500; border: none;">VEX</h2>
+
+<h2 style="height: 60px; line-height: 60px; margin-left: 70px; font-weight: 500; border: none;">Quintuple</h2>
 
 # Introduction
 
-Vex is a Creative, Responsive Material Design Admin Template built with Angular 8+ and the Angular-CLI. It extends the Material Design components built by the Angular team and it offers you everything you need to get started with your next CRM, CMS, Project Management, or other projects.
-
-Vex has **no dependency on jQuery or similiar libraries**, Angular's functionality is completely used.
-
-Support is available through E-Mail ([themeforest@visurel.com](mailto:themeforest@visurel.com)). If you purchased the theme and love it, consider giving it a 5-star rating here on ThemeForest. It really helps pushing out more updates and adding more great features.
-
+Quintuple 
 # Getting Started
 
 > In this section you will find the basic folder structure and everything you need to get the template up and running the first time to start developing.
